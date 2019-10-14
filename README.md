@@ -19,8 +19,6 @@ Simply add one or several list(s) to the [Pi-Hole settings page](http://pi.hole/
 `https://raw.githubusercontent.com/swantmon/Pi-Hole-Lists/master/jbfake.txt`
 ## Fake-Gaming-Websites (Fake-Emulatoren, ...)
 `https://raw.githubusercontent.com/swantmon/Pi-Hole-Lists/master/gamefake.txt`
-## deutschen Fake-News-Websites
-`https://raw.githubusercontent.com/swantmon/Pi-Hole-Lists/master/fakenewsde.txt`
 ## Cryptominer
 `https://raw.githubusercontent.com/swantmon/Pi-Hole-Lists/master/cryptomine.txt`
 ## Other
