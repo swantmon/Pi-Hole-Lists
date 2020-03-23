@@ -131,7 +131,6 @@ chatserver.comm100.com
 chatserver5.comm100.com
 chatserver5.comm100.com.cdn.cloudflare.net
 clicks.istripper.com
-clients6.google.com
 cliplister-2.hs.llnwd.net
 cloudlocker.biz
 config.unityads.unity3d.com
